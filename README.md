@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jci/TestAzure/_apis/build/status/AshwinNadendla.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/jci/TestAzure/_build/latest?definitionId=3428&branchName=main)
 
 # Contributing
 
